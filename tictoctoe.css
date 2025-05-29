@@ -1,0 +1,128 @@
+body {
+    background-color:blanchedalmond;
+}
+
+h1 {
+    font-size: 50px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.boxe {
+    margin-top: 30%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.box1 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-left: none;
+    border-top: none;
+}
+.box2 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-left: none;
+}
+.box3 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-left: none;
+    border-bottom: none;
+}
+.box4 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-top: none;
+}
+.box5 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+}
+.box6 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-bottom: none;
+}
+.box7 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-right: none;
+    border-top: none;
+}
+.box8 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-right: none;
+}
+.box9 {
+    height:25vmin;
+    width:25vmin;
+    margin:1px;
+    background-color: blanchedalmond;
+    border-right: none;
+    border-bottom: none;
+}
+
+.box {
+    font-size: 100px;
+    color: #000;
+    border-color: #000;
+}
+
+.reset {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.reset-btn {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    background-color: rgb(255, 250, 223);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.newGame {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.newGame-btn {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    background-color: rgb(255, 250, 223);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.winner {
+    margin-top: 20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.winner1 {
+    margin-top: 10px;
+    font-size: 3.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
