@@ -38,8 +38,8 @@ const checkWinner = () => {
             if(position1 === position2 && position2 === position3) {
                 showwinner(position1);
             }
-            else{
-                wins.innerText = "the Draw";
+            else {
+                wins.innerText = "The Draw";
             }
         }
     }
@@ -49,6 +49,10 @@ let showwinner = (winner) => {
     wins.innerText = `winner is ${winner}`;
     disabledbox();
 };
+
+
+
+
 
 const resetGame = () => {
     turnO = true;
